@@ -30,7 +30,7 @@ hs_err_pid*
 
 
 # ------------------------------------------------ https://github.com/github/gitignore/blob/master/Gradle.gitignore
-.gradle
+
 /build/
 
 # Ignore Gradle GUI config
